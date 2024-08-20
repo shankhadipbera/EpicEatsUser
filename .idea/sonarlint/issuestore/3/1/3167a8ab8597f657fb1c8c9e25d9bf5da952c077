@@ -1,0 +1,16 @@
+
+6kotlin:S125B"Remove this commented out code.(ÝŽî¢
+jkotlin:S117="SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ßÙø‰
+okotlin:S117>"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‘Ù¥‚øÿÿÿÿ
+jkotlin:S117?"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ñâ¢Š
+okotlin:S117@"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¹äèÆüÿÿÿÿ
+jkotlin:S117A"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¨¿˜ž
+jkotlin:S117B"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÝŽî¢
+2kotlin:S1128"Remove this unused import.(¬–¼Ñ
+2kotlin:S1128"Remove this unused import.(¥Ç–Ê
+7kotlin:S6524e"Make this collection immutable.(ÅÞ…â
+<kotlin:S6524f"Make this collection immutable.(†Å×æÿÿÿÿÿ
+7kotlin:S6524g"Make this collection immutable.(ÑÌ¼
+7kotlin:S6524h"Make this collection immutable.(–Üúï
+<kotlin:S6524i"Make this collection immutable.(—äôøúÿÿÿÿ
+7kotlin:S6524j"Make this collection immutable.(ðÑ¼
